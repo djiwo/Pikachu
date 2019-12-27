@@ -1,0 +1,1 @@
+This is Pikachu's first git project. Gotta catch 'm all!
